@@ -14,10 +14,4 @@ This repository implements a novel approach that simultaneously:
 - **Forecasting Head**: Multi-step demand prediction
 - **Joint Loss**: Combined optimization objective
 
-## Quick Start
 
-### Installation
-```bash
-git clone https://github.com/YOUR-USERNAME/retail-demand-clustering.git
-cd retail-demand-clustering
-pip install -r requirements.txt
